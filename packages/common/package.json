@@ -1,0 +1,9 @@
+{
+  "name": "common",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "tsconfig": "workspace:^",
+    "typescript": "^5"
+  }
+}

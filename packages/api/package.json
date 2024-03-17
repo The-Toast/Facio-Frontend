@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/node": "^20",
+    "aaxios": "^0.18.1",
+    "common": "workspace:^",
+    "eslint-config-custom": "workspace:^"
+  },
+  "devDependencies": {
+    "tsconfig": "workspace:^"
+  }
+}
